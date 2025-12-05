@@ -56,3 +56,4 @@ See `car-sharing-protos/proto/userprofile/user_profile.proto` for detailed API s
    ```bash
    psql -d user_profile_db -f migrations/001_create_user_profiles_table.sql# user-profile
 # user-profile
+# user-profile
